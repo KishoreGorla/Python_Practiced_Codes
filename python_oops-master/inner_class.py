@@ -17,7 +17,7 @@ class Student:
         def show(self):
             print(self.brand, self.cpu, self.ram)
 
-s1 = Student('ranganadh', 31)
+s1 = Student('kishore', 31)
 s2 = Student('aditya', 37)
 s1.show()
 
